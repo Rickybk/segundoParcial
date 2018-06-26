@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Main
-comment0.text=\r\n\ \r\n\r\n\ @author\ Dorian\ Flores\ Lopez,\ Andrea\ Cosme\ Cruz\r\n\ @version\ 14062018\r\n
-comment1.params=columnas\ filas
-comment1.target=Main(int,\ int)
-comment2.params=inicio\ destino
-comment2.target=void\ trazadoPosible(int,\ int)
-numComments=3
